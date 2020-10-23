@@ -1,16 +1,63 @@
-### Hi there 👋
 
-<!--
-**ErikJiang/ErikJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎲 Nihao, I’m Erik
 
-Here are some ideas to get you started:
+<img align='right' src="giphy.webp" width="240">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I’m interested in coding and computer science
+- 🧑‍💻 I'm a cloud native software engineer
+
+
+### 🎓 Certifications
+
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/70x70/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/eda23693-357b-4660-9096-eacad5e34319 "CKA: Certified Kubernetes Administrator")
+[![CKS: Certified Kubernetes Security Specialist](https://images.credly.com/size/70x70/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png)](https://www.credly.com/badges/2dd1f3b6-8f2f-44fa-b125-511b32bbf479 "CKS: Certified Kubernetes Security Specialist")
+
+
+### 🛠️ Languages and Tools:
+
+![Erik GitHub stats](https://github-readme-stats.vercel.app/api?username=erikjiang&show_icons=true&theme=transparent)
+
+<p align="left"> 
+  <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://golang.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  </a>
+  <a href="https://podman.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg" alt="podman" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://k3s.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k3s/k3s-original.svg" alt="k3s" width="40" height="40"/>
+  </a>
+  <a href="https://kind.sigs.k8s.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/kubernetes-sigs/kind/main/logo/logo.svg" alt="kind" width="40" height="40"/>
+  </a>
+  <a href="https://kubespray.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/kubernetes-sigs/kubespray/master/logo/logo-clear.svg" alt="kubespray" width="40" height="40"/>
+  </a>
+  <a href="https://www.ansible.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+Visitors Count:
+
+[![Visitors Count](https://profile-counter.glitch.me/{erikjiang}/count.svg)](https://github.com/ErikJiang)
