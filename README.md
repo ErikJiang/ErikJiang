@@ -9,8 +9,14 @@
 
 ### 🎓 Certifications
 
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/70x70/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/eda23693-357b-4660-9096-eacad5e34319 "CKA: Certified Kubernetes Administrator")
-[![CKS: Certified Kubernetes Security Specialist](https://images.credly.com/size/70x70/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png)](https://www.credly.com/badges/2dd1f3b6-8f2f-44fa-b125-511b32bbf479 "CKS: Certified Kubernetes Security Specialist")
+<p align="left"> 
+  <a href="http://www.credly.com/badges/eda23693-357b-4660-9096-eacad5e34319" target="_blank">
+    <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="bash" width="75" height="75"/>
+  </a>
+  <a href="https://www.credly.com/badges/2dd1f3b6-8f2f-44fa-b125-511b32bbf479" target="_blank">
+    <img src="https://images.credly.com/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="python" width="70" height="70"/>
+  </a>
+</p>
 
 
 ### 🛠️ Languages and Tools:
