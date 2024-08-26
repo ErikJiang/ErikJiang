@@ -16,6 +16,9 @@
   <a href="https://www.credly.com/badges/2dd1f3b6-8f2f-44fa-b125-511b32bbf479" target="_blank">
     <img src="https://images.credly.com/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="python" width="70" height="70"/>
   </a>
+  <a href="https://www.credly.com/badges/898224ee-de90-4981-afbb-e4c8fe611e46" target="_blank">
+    <img src="https://images.credly.com/images/195ebbe5-1318-4088-8548-42c94823f007/image.png" alt="python" width="70" height="70"/>
+  </a>
 </p>
 
 
