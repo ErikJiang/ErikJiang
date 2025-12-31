@@ -33,15 +33,77 @@
   <summary>Stat Details</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-```txt
-From: 30 November 2025 - To: 30 December 2025
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-Total Time: 0 secs
+**🐱 My GitHub Data** 
 
-No activity tracked
+> 📦 62.1 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 141 Public Repositories 
+ > 
+> 🔑 21 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3197 commits        ███████░░░░░░░░░░░░░░░░░░   26.70 % 
+🌆 Daytime                5865 commits        ████████████░░░░░░░░░░░░░   48.98 % 
+🌃 Evening                2422 commits        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+🌙 Night                  490 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   2007 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Tuesday                  2426 commits        █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Wednesday                2150 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Thursday                 2182 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Friday                   2431 commits        █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Saturday                 324 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Sunday                   454 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Go** 
+
+```text
+Go                       34 repos            █████████░░░░░░░░░░░░░░░░   37.78 % 
+Python                   13 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Shell                    11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Smarty                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ErikJiang/ErikJiang/main/assets/bar_graph.png)
+
+
+ Last Updated on 31/12/2025 15:29:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
