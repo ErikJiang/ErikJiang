@@ -33,13 +33,13 @@
   <summary>Stat Details</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 62.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 925 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -103,7 +103,7 @@ Smarty                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ErikJiang/ErikJiang/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 15:29:05 UTC
+ Last Updated on 31/12/2025 19:46:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
