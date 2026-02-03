@@ -33,6 +33,8 @@
   <summary>Stat Details</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -47,6 +49,45 @@
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5560 commits        ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+🌆 Daytime                10108 commits       █████████████░░░░░░░░░░░░   50.91 % 
+🌃 Evening                3681 commits        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+🌙 Night                  504 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   3419 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Tuesday                  3938 commits        █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+Wednesday                3676 commits        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Thursday                 3695 commits        █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Friday                   3921 commits        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Saturday                 462 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Sunday                   742 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -64,7 +105,7 @@ Go Template              2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ErikJiang/ErikJiang/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 19:50:28 UTC
+ Last Updated on 03/02/2026 20:22:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
