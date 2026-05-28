@@ -33,15 +33,13 @@
   <summary>Stat Details</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 62.8 kB Used in GitHub's Storage 
  > 
-> 🏆 230 Contributions in the Year 2026
+> 🏆 232 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,11 +50,11 @@
 **I Mostly Code in Go** 
 
 ```text
-Go                       34 repos            █████████░░░░░░░░░░░░░░░░   37.36 % 
-Python                   15 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Shell                    10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Go Template              2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Go                       33 repos            █████████░░░░░░░░░░░░░░░░   36.67 % 
+Python                   15 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Shell                    10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Go Template              2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
@@ -66,7 +64,7 @@ Go Template              2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ErikJiang/ErikJiang/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2026 22:18:48 UTC
+ Last Updated on 28/05/2026 22:13:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
